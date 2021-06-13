@@ -2,8 +2,8 @@
 Self-hosted multiplatform Todoist clone (in the making).
 
 ### :iphone: Frontend Roadmap
-:white_check_mark: Basic interface
-:white_check_mark: Inbox
+- :white_check_mark: Basic interface
+- :white_check_mark: Inbox
 - :white_check_mark: Today
 - :white_check_mark: Upcoming
 - :white_check_mark: Tasks
