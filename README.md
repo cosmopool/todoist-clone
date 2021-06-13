@@ -2,7 +2,7 @@
 ---
 Self-hosted multiplatform Todoist clone (in the making).
 
-### :iphone: Frontend Roadmap
+## :iphone: Frontend Roadmap
 - Basic interface
 - Inbox
 - Today
@@ -24,8 +24,7 @@ Self-hosted multiplatform Todoist clone (in the making).
 - Quick find
 - Karma
 
-### :cloud: Backend Roadmap
-
+## :cloud: Backend Roadmap
 - Database
 - Api design
 - Tasks
