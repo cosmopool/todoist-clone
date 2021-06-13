@@ -1,6 +1,5 @@
 # Todoist Clone
-Self-hosted multiplatform Todoist clone (in the making).
----
+Self-hosted multiplatform Todoist clone (in the making). This software intend to be a open source replacement for todoist.
 
 ## :iphone: Frontend Roadmap
 - Basic interface
