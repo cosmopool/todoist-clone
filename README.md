@@ -1,5 +1,4 @@
 # Todoist Clone
----
 Self-hosted multiplatform Todoist clone (in the making).
 
 ### :iphone: Frontend Roadmap
